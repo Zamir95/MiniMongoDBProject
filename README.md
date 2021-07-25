@@ -1,1 +1,2 @@
 # MiniMongoDBProject
+This is a mini MongoDb Project that I created. The object of this project is to deletion, finding, insertion, and updation books. Ther user can use the delete method of the mongodb project to delete books, the updation method to update books, the insertion method allows the user to be able insert the book into the db, and the finding method allows you the user to find the books in the db. 
